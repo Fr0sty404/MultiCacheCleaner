@@ -16,4 +16,4 @@ This software is to be considered experimental as this is my first project worki
 
 To compile from source you need to do:
 
-valac --pkg gtk+-3.0 --pkg posix Application.vala Window.vala main.vala -o anyname
+valac --pkg gtk+-3.0 --pkg posix Application.vala Headerbar.vala Window.vala main.vala -o anyname
